@@ -1,0 +1,23 @@
+{
+  "name": "wk6-assignments",
+  "version": "1.0.0",
+  "description": "assignment on debugging and unit testing",
+  "main": "Week-06-War-Card-Game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jennawing91/Promineo-Week-6-DevTools-Debugging-and-Unit-Tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jennawing91/Promineo-Week-6-DevTools-Debugging-and-Unit-Tests/issues"
+  },
+  "homepage": "https://github.com/jennawing91/Promineo-Week-6-DevTools-Debugging-and-Unit-Tests#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
