@@ -1,5 +1,6 @@
 {
   "name": "wk6-assignments",
+  "type": "module",
   "version": "1.0.0",
   "description": "assignment on debugging and unit testing",
   "main": "Week-06-War-Card-Game.js",
